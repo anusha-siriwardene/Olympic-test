@@ -26,7 +26,7 @@ I have implemented only the requested scenario in the mail. We can extend the te
 
 Problem Came-across
 These two major defects can be seen in the client application I used for this exercise.
-1. Once the user added more than 3 items to the “Shop from a list”, user can only see 2 items at a time, in the list conatainer (for example, if the list items are, Milk, Rice and Chocolates, once the user press on ENTER after adding 3rd item – Chocolates, in the list user can only see the Rice and Chocolates visually). To see the 1st item, user had to use up arrow key.
+1. Once the user added more than 3 items to the “Shop from a list”, user can only see 2 items at a time, in the list container (for example, if the list items are, Milk, Rice and Chocolates, once the user press on ENTER after adding 3rd item – Chocolates, in the list user can only see the Rice and Chocolates visually). To see the 1st item, user had to use up arrow key.
 2. Though the user searched a set of multiple product items (for example, Milk, Rice and Chocolates, the search results has been only shown the product items that are related to the 1st search criterion; Milk.
 ---------------------------
 
