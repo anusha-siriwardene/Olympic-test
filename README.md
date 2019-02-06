@@ -18,7 +18,7 @@ Steps
 
 Assumptions
 1. POM (Page Object Model) Implementation
-I automated the end-to-end (system) scenario which used a limited set of GUIs' (Graphical User Interfaces') objects (approximately limited around 15 objects across 5 pages). Therefore, all the page objects were implemented within the “AddToCartSteps.java” class without creating a separate set of classes for each page.
+I automated the end-to-end (system) scenario which used a limited set of GUIs' (Graphical User Interfaces') objects (approximately limited around 15 objects across 5 pages). Therefore, all the page objects were implemented within the AddToCartHelper.java” class without creating a separate set of classes for each page.
 However, to achieve an extensive test coverage of using this automation framework, we can extend this with POM concept without any issue.
 2. Test Implementation
 I have implemented only the requested scenario in the mail. We can extend the test coverage (alternative flows) by adding additional ‘Then’ steps in to the AddToCart.feature file.
